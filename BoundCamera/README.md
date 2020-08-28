@@ -10,7 +10,7 @@ as expanding the map after a barrier is removed or creating a Zelda 1 style scro
 ## How to Use
 Set the bounds of the camera using four properties:
 * Min X: the leftmost X coordinate that the camera will scroll.
-* Max X: the rightmore X coordinate that the camera will scroll.
+* Max X: the rightmost X coordinate that the camera will scroll.
 * Min Y: the topmost Y coordinate that the camera will scroll.
 * Max Y: the bottommost Y coordinate that the camera will scroll.
 
